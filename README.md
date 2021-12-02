@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MoominBot](https://github.com/MoominBot/MoominBot)
 
-- 🌱 I’m currently learning **Graphics Designing, Rust**
+- 🌱 I’m currently learning **new stuffs 👀**
 
 - 📫 How to reach me **theprarimz@gmail.com**
 
