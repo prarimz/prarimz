@@ -1,4 +1,4 @@
-<h3 align="center">ragyan Rimal is a tech enthusiast who believes in quality over quantity. I usually comes up with new ideas for the betterment of the project. You can call me brainstomer</h3>
+<h3 align="center">I'm a tech enthusiast who believes in quality over quantity. I usually comes up with new ideas for the betterment of the project. You can call me brainstomer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prarimz&label=Profile%20views&color=0e75b6&style=flat" alt="prarimz" /> </p>
 
