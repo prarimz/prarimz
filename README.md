@@ -2,13 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prarimz&label=Profile%20views&color=0e75b6&style=flat" alt="prarimz" /> </p>
 
-- 🔭 I’m currently working on [MoominBot](https://github.com/MoominBot/MoominBot)
+- 🔭 I’m currently working on [Zebec Protocol](https://zebec.io) and [MoominBot](https://github.com/MoominBot/MoominBot)
 
 - 🌱 I’m currently learning **new stuffs 👀**
 
 - 📫 How to reach me **theprarimz@gmail.com**
 
 - ⚡ Fun fact **I make memes**
+
+- 💡 Past Projects [DGS Media](https://dgs.com.np) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
