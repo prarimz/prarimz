@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prarimz&label=Profile%20views&color=0e75b6&style=flat" alt="prarimz" /> </p>
 
-- 🔭 I’m currently working on [Zebec Protocol](https://zebec.io), [Starboy Solutions](https://starboy.solutions), [Nautilus Chain](https://nautlius.xyz) and [Kapaas](https://kapaasnepal.com)
+- 🔭 I’m currently working on [Zebec Protocol](https://zebec.io), [Starboy Solutions](https://starboy.solutions), [Nautilus Chain](https://nautchain.xyz/)] and [Kapaas](https://kapaasnepal.com)
 
 - 🌱 I’m currently learning **new stuffs 👀**
 
