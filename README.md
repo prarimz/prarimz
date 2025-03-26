@@ -29,11 +29,11 @@
 - Launched NFT project **[Stoned Hippies](https://stonedhippies.io/)** (2.4k ETH volume)
 
 ### 📬 Let’s Connect
-- **Email:** [theprarimz@gmail.com](mailto:theprarimz@gmail.com)
+- **Email:** [pragyan@starboy.solutions](mailto:pragyan@starboy.solutions)
 - **Socials:**  
   [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)](https://fb.com/prarimz)
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://instagram.com/prarimz)
   [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord)](https://discord.gg/jaynepal)
 
 ### ⚡ Fun Fact
-When I’m not BUIDLing, I’m probably making **crypto memes** or debating the future of DAOs. 😎
+When I’m not BUIDLing, I’m probably making **memes** or debating the future of DAOs. 😎
