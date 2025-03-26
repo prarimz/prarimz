@@ -1,25 +1,39 @@
-<h3 align="center">I am a passionate tech enthusiast who believes in the value of quality over quantity. I constantly generate innovative ideas to drive projects forward and help them achieve their goals.</h3>
+<h3 align="center">🚀 Web3 Builder | Tech Strategist | Impact-Driven Innovator</h3>
+<h4 align="center">Bridging cutting-edge blockchain solutions with mainstream adoption through scalable strategies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prarimz&label=Profile%20views&color=0e75b6&style=flat" alt="prarimz" /> </p>
 
-- 🔭 I’m currently working on [Zebec Protocol](https://zebec.io), [Starboy Solutions](https://starboy.solutions), [Nautilus Chain](https://nautchain.xyz/) and [Kapaas](https://kapaasnepal.com)
+### 🔥 Current Focus
+- **Co-Founder @ [Starboy Solutions](https://starboy.solutions)** – Empowering Web3/blockchain projects with full-stack development, growth marketing, and ecosystem design.
+- Leading innovation at **[Zebec Protocol](https://zebec.io)**, **[Nautilus Chain](https://nautchain.xyz/)**, and **[Kapaas](https://kapaasnepal.com)**.
+- Architecting strategies to transform technical complexity into cultural momentum.
 
-- 🌱 I’m currently learning **new stuffs 👀**
+### 🛠️ Toolkit
+**Languages & Tech:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-- 📫 How to reach me **theprarimz@gmail.com**
+**Design & Tools:**  
+![Adobe XD](https://img.shields.io/badge/-XD-FF61F6?logo=adobexd)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
 
-- ⚡ Fun fact **I make memes**
+### 🌱 Learning
+- Always exploring **new frameworks** and **decentralized architectures** 👨💻
 
-- 💡 Past Projects [DGS Media](https://dgs.com.np), [MoominBot](https://github.com/MoominBot/MoominBot), [Stoned Hippies](https://stonedhippies.io/)
+### 🚨 Past Wins
+- Built Nepal's largest media CMS at **[DGS Media](https://dgs.com.np)**
+- Created viral Discord utility **[MoominBot](https://github.com/MoominBot/MoominBot)** (50k+ users)
+- Launched NFT project **[Stoned Hippies](https://stonedhippies.io/)** (2.4k ETH volume)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/prarimz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prarimz" height="30" width="40" /></a>
-<a href="https://instagram.com/prarimz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prarimz" height="30" width="40" /></a>
-<a href="https://discord.gg/jaynepal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jaynepal" height="30" width="40" /></a>
-</p>
+### 📬 Let’s Connect
+- **Email:** [theprarimz@gmail.com](mailto:theprarimz@gmail.com)
+- **Socials:**  
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)](https://fb.com/prarimz)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)](https://instagram.com/prarimz)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord)](https://discord.gg/jaynepal)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
- 
+### ⚡ Fun Fact
+When I’m not BUIDLing, I’m probably making **crypto memes** or debating the future of DAOs. 😎
